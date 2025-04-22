@@ -1,34 +1,65 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: RS-PYTHON
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: rs-server-auxip
+    url: https://rspy.ops.rs-python.eu/auxip
+    headers:
+      - "x-api-key: $RS_SERVER_API_KEY"
+  - name: rs-server-cadip
+    url: https://rspy.ops.rs-python.eu/cadip
+    headers:
+      - "x-api-key: $RS_SERVER_API_KEY"
+  - name: rs-server-catalog
+    url: https://rspy.ops.rs-python.eu/catalog
+    headers:
+      - "x-api-key: $RS_SERVER_API_KEY"
+  - name: rs-server-frontend
+    url: https://rspy.ops.rs-python.eu/docs
+  - name: rs-server-staging
+    url: https://rspy.ops.rs-python.eu/processes
+    headers:
+      - "x-api-key: $RS_SERVER_API_KEY"
+  - name: stac-browser-cadip
+    url: https://stac-browser-cadip.ops.rs-python.eu
+  - name: stac-browser-auxip
+    url: https://stac-browser-auxip.ops.rs-python.eu
+  - name: stac-browser-catalog
+    url: https://stac-browser-catalog.ops.rs-python.eu
+  - name: prefect
+    url: https://processing.ops.rs-python.eu
+  - name: jupyter
+    url: https://processing.ops.rs-python.eu/jupyter
+  - name: keycloak
+    url: https://iam.ops.rs-python.eu
+  - name: api-key-manager
+    url: https://apikeymanager.ops.rs-python.eu/docs
+  - name: grafana
+    url: https://monitoring.ops.rs-python.eu
+  - name: prometheus
+    url: https://monitoring.ops.rs-python.eu/prometheus
+  - name: neuvector
+    url: $NEUVECTOR_URL
+  - name: wazuh
+    url: $WAZUH_URL
+  - name: website
+    url: https://home.rs-python.eu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  # cname: home.rs-python.eu
+  baseUrl: /upptime
+  logoUrl: https://raw.githubusercontent.com/RS-PYTHON/RS-PYTHON.github.io/refs/heads/main/assets/logo/logo.jpg 
+  name: Copernicus Reference System Python System Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/RS-PYTHON/upptime).
   navbar:
-    - title: Status
+    - title: Home
       href: /
+    - title: Status
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
