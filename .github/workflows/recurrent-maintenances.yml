@@ -1,0 +1,38 @@
+name: Recurrent Maintenance
+on:
+  schedule:
+    - cron: "7 15 * * 1-5"
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write 
+jobs:
+  stuff:
+    runs-on: ubuntu-latest
+    steps:
+     - uses: actions/checkout@v4
+
+     - name: Calculate START and END
+       id: calculate-times
+       run: |
+         START=$(date -u +"%Y-%m-%dT17:45:00.000Z")
+
+         DAY_OF_WEEK=$(date -u +%u)
+
+         if [ "$DAY_OF_WEEK" -lt 5 ]; then
+           END=$(date -u -d "tomorrow 07:00" +"%Y-%m-%dT%H:%M:%S.000Z")
+         else
+           END=$(date -u -d "next monday 07:00" +"%Y-%m-%dT%H:%M:%S.000Z")
+         fi
+
+         echo "START=$START" >> $GITHUB_ENV
+         echo "END=$END" >> $GITHUB_ENV
+
+     - uses: JasonEtco/create-an-issue@v2
+       env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         START: ${{ env.START }}
+         END: ${{ env.END }}
+         EXPECTED_DOWN: ${{ vars.EXPECTED_DOWN }}
+       with:
+         filename: .github/ISSUE_TEMPLATE/recurrent-maintenance-event.md
