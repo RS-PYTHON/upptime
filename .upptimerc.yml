@@ -7,42 +7,57 @@ sites:
     url: https://rspy.ops.rs-python.eu/auxip
     headers:
       - "x-api-key: $RS_SERVER_API_KEY"
+    icon: https://avatars.githubusercontent.com/u/147415456?s=48&v=4
   - name: rs-server-cadip
     url: https://rspy.ops.rs-python.eu/cadip
     headers:
       - "x-api-key: $RS_SERVER_API_KEY"
+    icon: https://avatars.githubusercontent.com/u/147415456?s=48&v=4
   - name: rs-server-catalog
     url: https://rspy.ops.rs-python.eu/catalog
     headers:
       - "x-api-key: $RS_SERVER_API_KEY"
+    icon: https://avatars.githubusercontent.com/u/147415456?s=48&v=4
   - name: rs-server-frontend
     url: https://rspy.ops.rs-python.eu/docs
+    icon: https://avatars.githubusercontent.com/u/147415456?s=48&v=4
   - name: rs-server-staging
     url: https://rspy.ops.rs-python.eu/processes
     headers:
       - "x-api-key: $RS_SERVER_API_KEY"
+    icon: https://avatars.githubusercontent.com/u/147415456?s=48&v=4
   - name: stac-browser-cadip
     url: https://stac-browser-cadip.ops.rs-python.eu
+    icon: https://avatars.githubusercontent.com/u/25801078?s=48&v=4
   - name: stac-browser-auxip
     url: https://stac-browser-auxip.ops.rs-python.eu
+    icon: https://avatars.githubusercontent.com/u/25801078?s=48&v=4
   - name: stac-browser-catalog
     url: https://stac-browser-catalog.ops.rs-python.eu
+    icon: https://avatars.githubusercontent.com/u/25801078?s=48&v=4
   - name: prefect
     url: https://processing.ops.rs-python.eu
+    icon: https://avatars.githubusercontent.com/u/39270919?s=48&v=4
   - name: jupyter
     url: https://processing.ops.rs-python.eu/jupyter
+    icon: https://avatars.githubusercontent.com/u/17927519?s=200&v=4
   - name: keycloak
     url: https://iam.ops.rs-python.eu
   - name: api-key-manager
     url: https://apikeymanager.ops.rs-python.eu/docs
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_icon_-_Key.ZGH.png/250px-Green_icon_-_Key.ZGH.png
   - name: grafana
     url: https://monitoring.ops.rs-python.eu
+    icon: https://avatars.githubusercontent.com/u/7195757?s=200&v=4
   - name: prometheus
     url: https://monitoring.ops.rs-python.eu/prometheus
+    icon: https://avatars.githubusercontent.com/u/3380462?s=200&v=4
   - name: neuvector
     url: $NEUVECTOR_URL
+    icon: https://avatars.githubusercontent.com/u/19367275?s=48&v=4
   - name: wazuh
     url: $WAZUH_URL
+    icon: https://avatars.githubusercontent.com/u/13752566?s=200&v=4
   - name: website
     url: https://home.rs-python.eu
 
