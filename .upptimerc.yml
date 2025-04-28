@@ -3,6 +3,8 @@ owner: RS-PYTHON
 repo: upptime # The name of this repository
 
 sites:
+  - name: publication-service
+    url: https://sentinelprocessors.copernicus.eu
   - name: rs-server-auxip
     url: https://rspy.ops.rs-python.eu/auxip
     headers:
