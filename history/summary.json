@@ -326,19 +326,19 @@
     "url": "$WAZUH_URL",
     "icon": "https://avatars.githubusercontent.com/u/13752566?s=200&v=4",
     "slug": "wazuh",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "81.78%",
-    "uptimeWeek": "97.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
-    "time": 704,
-    "timeDay": 614,
-    "timeWeek": 646,
-    "timeMonth": 691,
-    "timeYear": 704,
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "80.59%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 711,
+    "timeDay": 680,
+    "timeWeek": 673,
+    "timeMonth": 699,
+    "timeYear": 711,
     "dailyMinutesDown": {
-      "2025-05-22": 262
+      "2025-05-22": 279
     }
   },
   {
