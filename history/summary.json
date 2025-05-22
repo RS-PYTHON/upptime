@@ -26,12 +26,12 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.82%",
     "time": 1174,
     "timeDay": 1957,
     "timeWeek": 1055,
-    "timeMonth": 1174,
+    "timeMonth": 1233,
     "timeYear": 1174,
     "dailyMinutesDown": {
       "2025-04-24": 43,
@@ -47,12 +47,12 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.82%",
     "time": 154,
     "timeDay": 112,
     "timeWeek": 130,
-    "timeMonth": 154,
+    "timeMonth": 157,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-04-24": 43,
@@ -68,12 +68,12 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.82%",
     "time": 336,
     "timeDay": 173,
     "timeWeek": 140,
-    "timeMonth": 336,
+    "timeMonth": 376,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2025-04-24": 43,
@@ -94,7 +94,7 @@
     "time": 118,
     "timeDay": 91,
     "timeWeek": 113,
-    "timeMonth": 118,
+    "timeMonth": 116,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-04-24": 43
@@ -109,7 +109,7 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.82%",
     "time": 142,
     "timeDay": 131,
@@ -135,7 +135,7 @@
     "time": 753,
     "timeDay": 581,
     "timeWeek": 698,
-    "timeMonth": 753,
+    "timeMonth": 745,
     "timeYear": 753,
     "dailyMinutesDown": {
       "2025-04-24": 43
@@ -155,7 +155,7 @@
     "time": 677,
     "timeDay": 672,
     "timeWeek": 758,
-    "timeMonth": 677,
+    "timeMonth": 671,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2025-04-24": 43
@@ -175,7 +175,7 @@
     "time": 711,
     "timeDay": 1048,
     "timeWeek": 780,
-    "timeMonth": 711,
+    "timeMonth": 695,
     "timeYear": 711,
     "dailyMinutesDown": {
       "2025-04-24": 43
@@ -195,7 +195,7 @@
     "time": 1891,
     "timeDay": 1796,
     "timeWeek": 2025,
-    "timeMonth": 1891,
+    "timeMonth": 1864,
     "timeYear": 1891,
     "dailyMinutesDown": {
       "2025-04-24": 43
@@ -215,7 +215,7 @@
     "time": 496,
     "timeDay": 406,
     "timeWeek": 464,
-    "timeMonth": 496,
+    "timeMonth": 491,
     "timeYear": 496,
     "dailyMinutesDown": {
       "2025-04-24": 43
@@ -235,7 +235,7 @@
     "time": 145,
     "timeDay": 114,
     "timeWeek": 116,
-    "timeMonth": 145,
+    "timeMonth": 149,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -253,7 +253,7 @@
     "time": 758,
     "timeDay": 615,
     "timeWeek": 718,
-    "timeMonth": 758,
+    "timeMonth": 745,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2025-04-24": 43
@@ -264,54 +264,60 @@
     "url": "https://monitoring.ops.rs-python.eu",
     "icon": "https://avatars.githubusercontent.com/u/7195757?s=200&v=4",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 955,
     "timeDay": 966,
     "timeWeek": 922,
-    "timeMonth": 955,
+    "timeMonth": 933,
     "timeYear": 955,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-22": 0
+    }
   },
   {
     "name": "prometheus",
     "url": "https://monitoring.ops.rs-python.eu/prometheus",
     "icon": "https://avatars.githubusercontent.com/u/3380462?s=200&v=4",
     "slug": "prometheus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 488,
-    "timeWeek": 601,
-    "timeMonth": 620,
-    "timeYear": 620,
-    "dailyMinutesDown": {}
+    "time": 622,
+    "timeDay": 585,
+    "timeWeek": 611,
+    "timeMonth": 611,
+    "timeYear": 622,
+    "dailyMinutesDown": {
+      "2025-05-22": 0
+    }
   },
   {
     "name": "neuvector",
     "url": "$NEUVECTOR_URL",
     "icon": "https://avatars.githubusercontent.com/u/19367275?s=48&v=4",
     "slug": "neuvector",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1443,
-    "timeDay": 2733,
-    "timeWeek": 963,
-    "timeMonth": 1443,
-    "timeYear": 1443,
-    "dailyMinutesDown": {}
+    "time": 1413,
+    "timeDay": 1647,
+    "timeWeek": 913,
+    "timeMonth": 1548,
+    "timeYear": 1413,
+    "dailyMinutesDown": {
+      "2025-05-22": 0
+    }
   },
   {
     "name": "wazuh",
@@ -319,18 +325,18 @@
     "icon": "https://avatars.githubusercontent.com/u/13752566?s=200&v=4",
     "slug": "wazuh",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.73%",
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 709,
     "timeDay": 613,
     "timeWeek": 654,
-    "timeMonth": 709,
+    "timeMonth": 696,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-05-22": 0
+      "2025-05-22": 115
     }
   },
   {
@@ -347,7 +353,7 @@
     "time": 268,
     "timeDay": 291,
     "timeWeek": 247,
-    "timeMonth": 268,
+    "timeMonth": 267,
     "timeYear": 268,
     "dailyMinutesDown": {}
   }
