@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 978,
-    "timeWeek": 852,
-    "timeMonth": 812,
-    "timeYear": 808,
+    "time": 802,
+    "timeDay": 608,
+    "timeWeek": 798,
+    "timeMonth": 811,
+    "timeYear": 802,
     "dailyMinutesDown": {}
   },
   {
@@ -31,7 +31,7 @@
     "time": 1240,
     "timeDay": 1526,
     "timeWeek": 1782,
-    "timeMonth": 1395,
+    "timeMonth": 1433,
     "timeYear": 1240,
     "dailyMinutesDown": {
       "2025-04-24": 43,
@@ -52,7 +52,7 @@
     "time": 155,
     "timeDay": 196,
     "timeWeek": 153,
-    "timeMonth": 167,
+    "timeMonth": 171,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2025-04-24": 43,
@@ -73,7 +73,7 @@
     "time": 312,
     "timeDay": 243,
     "timeWeek": 190,
-    "timeMonth": 394,
+    "timeMonth": 189,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2025-05-22": 23,
@@ -115,7 +115,7 @@
     "time": 145,
     "timeDay": 198,
     "timeWeek": 161,
-    "timeMonth": 148,
+    "timeMonth": 151,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2025-04-24": 43,
@@ -196,7 +196,7 @@
     "time": 1905,
     "timeDay": 2711,
     "timeWeek": 1949,
-    "timeMonth": 1929,
+    "timeMonth": 1988,
     "timeYear": 1905,
     "dailyMinutesDown": {
       "2025-05-22": 23,
@@ -237,7 +237,7 @@
     "time": 145,
     "timeDay": 159,
     "timeWeek": 140,
-    "timeMonth": 154,
+    "timeMonth": 134,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -275,7 +275,7 @@
     "time": 966,
     "timeDay": 1275,
     "timeWeek": 1015,
-    "timeMonth": 943,
+    "timeMonth": 964,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2025-05-22": 17
@@ -295,7 +295,7 @@
     "time": 639,
     "timeDay": 824,
     "timeWeek": 692,
-    "timeMonth": 631,
+    "timeMonth": 655,
     "timeYear": 639,
     "dailyMinutesDown": {
       "2025-05-22": 17
@@ -315,7 +315,7 @@
     "time": 1420,
     "timeDay": 2692,
     "timeWeek": 1514,
-    "timeMonth": 1624,
+    "timeMonth": 1674,
     "timeYear": 1420,
     "dailyMinutesDown": {
       "2025-05-22": 17
@@ -327,15 +327,15 @@
     "icon": "https://avatars.githubusercontent.com/u/13752566?s=200&v=4",
     "slug": "wazuh",
     "status": "down",
-    "uptime": "97.68%",
+    "uptime": "97.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.02%",
     "uptimeMonth": "97.24%",
-    "uptimeYear": "97.68%",
+    "uptimeYear": "97.70%",
     "time": 713,
     "timeDay": 849,
     "timeWeek": 706,
-    "timeMonth": 687,
+    "timeMonth": 694,
     "timeYear": 713,
     "dailyMinutesDown": {
       "2025-05-27": 440,
@@ -354,11 +354,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 288,
-    "timeWeek": 237,
-    "timeMonth": 262,
-    "timeYear": 262,
+    "time": 260,
+    "timeDay": 174,
+    "timeWeek": 220,
+    "timeMonth": 263,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   }
 ]
