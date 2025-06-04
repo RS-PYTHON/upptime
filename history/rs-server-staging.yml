@@ -1,7 +1,7 @@
 url: https://rspy.ops.rs-python.eu/processes
-status: up
-code: 200
-responseTime: 161
-lastUpdated: 2025-06-04T07:27:02.516Z
+status: down
+code: 503
+responseTime: 143
+lastUpdated: 2025-06-04T17:57:58.304Z
 startTime: 2025-04-22T13:34:25.037Z
 generator: Upptime <https://github.com/upptime/upptime>
