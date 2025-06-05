@@ -1,7 +1,7 @@
 url: $WAZUH_URL
-status: up
-code: 200
-responseTime: 585
-lastUpdated: 2025-06-05T07:09:22.982Z
+status: down
+code: 503
+responseTime: 624
+lastUpdated: 2025-06-05T13:54:56.271Z
 startTime: 2025-04-22T13:34:41.941Z
 generator: Upptime <https://github.com/upptime/upptime>
