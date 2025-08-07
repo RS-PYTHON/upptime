@@ -1,7 +1,7 @@
 url: https://monitoring.ops.rs-python.eu/prometheus
 status: down
-code: 500
-responseTime: 94
-lastUpdated: 2025-08-07T16:38:19.799Z
+code: 0
+responseTime: 0
+lastUpdated: 2025-08-07T23:10:20.517Z
 startTime: 2025-04-22T13:34:39.461Z
 generator: Upptime <https://github.com/upptime/upptime>
