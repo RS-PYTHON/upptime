@@ -1,7 +1,7 @@
 url: https://rspy.ops.rs-python.eu/catalog
-status: up
-code: 200
-responseTime: 396
-lastUpdated: 2026-01-07T08:39:52.802Z
+status: down
+code: 503
+responseTime: 88
+lastUpdated: 2026-01-07T18:46:23.983Z
 startTime: 2025-04-22T13:34:21.348Z
 generator: Upptime <https://github.com/upptime/upptime>
