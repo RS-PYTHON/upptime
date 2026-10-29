@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "30.58%",
+    "uptimeWeek": "36.25%",
     "uptimeMonth": "82.79%",
     "uptimeYear": "98.53%",
     "time": 903,
-    "timeDay": 958,
-    "timeWeek": 735,
-    "timeMonth": 877,
+    "timeDay": 937,
+    "timeWeek": 785,
+    "timeMonth": 879,
     "timeYear": 901,
     "dailyMinutesDown": {
       "2026-07-27": 185,
@@ -31,18 +31,17 @@
     "icon": "https://avatars.githubusercontent.com/u/147415456?s=48&v=4",
     "slug": "rs-server-auxip",
     "status": "down",
-    "uptime": "94.63%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "64.03%",
-    "uptimeYear": "94.57%",
+    "uptime": "94.56%",
+    "uptimeDay": "60.04%",
+    "uptimeWeek": "94.29%",
+    "uptimeMonth": "63.88%",
+    "uptimeYear": "94.46%",
     "time": 2871,
     "timeDay": 1530,
     "timeWeek": 3137,
     "timeMonth": 2735,
     "timeYear": 2667,
     "dailyMinutesDown": {
-      "2025-10-29": 65,
       "2025-11-06": 24,
       "2025-11-24": 275,
       "2025-11-26": 616,
@@ -91,7 +90,8 @@
       "2026-10-19": 617,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 4
+      "2026-10-29": 312,
+      "2026-10-28": 264
     }
   },
   {
@@ -100,18 +100,17 @@
     "icon": "https://avatars.githubusercontent.com/u/147415456?s=48&v=4",
     "slug": "rs-server-cadip",
     "status": "down",
-    "uptime": "94.52%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "64.03%",
-    "uptimeYear": "94.40%",
+    "uptime": "94.45%",
+    "uptimeDay": "60.05%",
+    "uptimeWeek": "94.29%",
+    "uptimeMonth": "63.88%",
+    "uptimeYear": "94.29%",
     "time": 364,
     "timeDay": 699,
     "timeWeek": 700,
     "timeMonth": 641,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2025-10-29": 65,
       "2025-11-06": 23,
       "2025-11-24": 275,
       "2025-11-26": 616,
@@ -160,7 +159,8 @@
       "2026-10-19": 617,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 4
+      "2026-10-29": 312,
+      "2026-10-28": 263
     }
   },
   {
@@ -169,18 +169,17 @@
     "icon": "https://avatars.githubusercontent.com/u/147415456?s=48&v=4",
     "slug": "rs-server-catalog",
     "status": "down",
-    "uptime": "94.36%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "63.00%",
-    "uptimeYear": "94.45%",
-    "time": 701,
+    "uptime": "94.29%",
+    "uptimeDay": "60.06%",
+    "uptimeWeek": "94.29%",
+    "uptimeMonth": "62.85%",
+    "uptimeYear": "94.34%",
+    "time": 702,
     "timeDay": 1648,
     "timeWeek": 1465,
     "timeMonth": 1393,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2025-10-29": 65,
       "2025-11-06": 21,
       "2025-11-24": 275,
       "2025-11-26": 867,
@@ -228,7 +227,8 @@
       "2026-10-19": 617,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 4
+      "2026-10-29": 312,
+      "2026-10-28": 263
     }
   },
   {
@@ -237,18 +237,17 @@
     "icon": "https://avatars.githubusercontent.com/u/147415456?s=48&v=4",
     "slug": "rs-server-frontend",
     "status": "down",
-    "uptime": "94.58%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "63.01%",
-    "uptimeYear": "94.51%",
-    "time": 264,
+    "uptime": "94.51%",
+    "uptimeDay": "60.08%",
+    "uptimeWeek": "94.30%",
+    "uptimeMonth": "62.85%",
+    "uptimeYear": "94.40%",
+    "time": 265,
     "timeDay": 735,
     "timeWeek": 626,
     "timeMonth": 578,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2025-10-29": 65,
       "2025-11-06": 20,
       "2025-11-24": 275,
       "2025-11-26": 616,
@@ -295,7 +294,8 @@
       "2026-10-19": 617,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 4
+      "2026-10-29": 312,
+      "2026-10-28": 263
     }
   },
   {
@@ -304,18 +304,17 @@
     "icon": "https://avatars.githubusercontent.com/u/147415456?s=48&v=4",
     "slug": "rs-server-staging",
     "status": "down",
-    "uptime": "94.61%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "64.05%",
-    "uptimeYear": "94.37%",
+    "uptime": "94.54%",
+    "uptimeDay": "60.09%",
+    "uptimeWeek": "94.30%",
+    "uptimeMonth": "63.89%",
+    "uptimeYear": "94.26%",
     "time": 305,
     "timeDay": 499,
     "timeWeek": 570,
     "timeMonth": 578,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2025-10-29": 65,
       "2025-11-06": 18,
       "2025-11-24": 292,
       "2025-11-26": 616,
@@ -364,7 +363,8 @@
       "2026-10-19": 617,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 3
+      "2026-10-29": 312,
+      "2026-10-28": 263
     }
   },
   {
@@ -373,18 +373,17 @@
     "icon": "https://avatars.githubusercontent.com/u/25801078?s=48&v=4",
     "slug": "stac-browser-cadip",
     "status": "down",
-    "uptime": "94.13%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "63.02%",
-    "uptimeYear": "93.62%",
+    "uptime": "94.06%",
+    "uptimeDay": "60.10%",
+    "uptimeWeek": "94.30%",
+    "uptimeMonth": "62.86%",
+    "uptimeYear": "93.51%",
     "time": 807,
     "timeDay": 881,
     "timeWeek": 947,
     "timeMonth": 839,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2025-10-29": 65,
       "2025-11-24": 292,
       "2025-11-26": 616,
       "2025-11-25": 568,
@@ -435,7 +434,8 @@
       "2026-10-19": 617,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 3
+      "2026-10-29": 312,
+      "2026-10-28": 262
     }
   },
   {
@@ -444,18 +444,17 @@
     "icon": "https://avatars.githubusercontent.com/u/25801078?s=48&v=4",
     "slug": "stac-browser-auxip",
     "status": "down",
-    "uptime": "94.61%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "63.02%",
-    "uptimeYear": "94.34%",
-    "time": 744,
+    "uptime": "94.54%",
+    "uptimeDay": "60.12%",
+    "uptimeWeek": "94.30%",
+    "uptimeMonth": "62.87%",
+    "uptimeYear": "94.23%",
+    "time": 743,
     "timeDay": 925,
     "timeWeek": 794,
     "timeMonth": 732,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2025-10-29": 65,
       "2025-11-24": 292,
       "2025-11-26": 616,
       "2025-11-25": 567,
@@ -502,7 +501,8 @@
       "2026-10-19": 617,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 3
+      "2026-10-29": 312,
+      "2026-10-28": 262
     }
   },
   {
@@ -511,18 +511,17 @@
     "icon": "https://avatars.githubusercontent.com/u/25801078?s=48&v=4",
     "slug": "stac-browser-catalog",
     "status": "down",
-    "uptime": "94.43%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "63.03%",
-    "uptimeYear": "94.07%",
+    "uptime": "94.36%",
+    "uptimeDay": "60.13%",
+    "uptimeWeek": "94.30%",
+    "uptimeMonth": "62.87%",
+    "uptimeYear": "93.97%",
     "time": 770,
     "timeDay": 737,
     "timeWeek": 785,
     "timeMonth": 774,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2025-10-29": 65,
       "2025-11-24": 292,
       "2025-11-27": 588,
       "2025-11-26": 1440,
@@ -570,7 +569,8 @@
       "2026-10-19": 617,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 3
+      "2026-10-29": 312,
+      "2026-10-28": 262
     }
   },
   {
@@ -579,11 +579,11 @@
     "icon": "https://avatars.githubusercontent.com/u/39270919?s=48&v=4",
     "slug": "prefect",
     "status": "down",
-    "uptime": "94.85%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "64.07%",
-    "uptimeYear": "94.88%",
+    "uptime": "94.79%",
+    "uptimeDay": "60.14%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "63.91%",
+    "uptimeYear": "94.77%",
     "time": 2100,
     "timeDay": 1331,
     "timeWeek": 1375,
@@ -634,7 +634,8 @@
       "2026-10-19": 617,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 3
+      "2026-10-29": 312,
+      "2026-10-28": 262
     }
   },
   {
@@ -643,11 +644,11 @@
     "icon": "https://avatars.githubusercontent.com/u/17927519?s=200&v=4",
     "slug": "jupyter",
     "status": "down",
-    "uptime": "94.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "64.07%",
-    "uptimeYear": "94.90%",
+    "uptime": "94.92%",
+    "uptimeDay": "60.15%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "63.92%",
+    "uptimeYear": "94.79%",
     "time": 915,
     "timeDay": 1334,
     "timeWeek": 1328,
@@ -699,7 +700,8 @@
       "2026-10-19": 617,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 3
+      "2026-10-29": 312,
+      "2026-10-28": 261
     }
   },
   {
@@ -708,11 +710,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/iam.ops.rs-python.eu.ico",
     "slug": "keycloak",
     "status": "down",
-    "uptime": "79.39%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "64.08%",
-    "uptimeYear": "70.85%",
+    "uptime": "79.33%",
+    "uptimeDay": "60.17%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "63.92%",
+    "uptimeYear": "70.74%",
     "time": 450,
     "timeDay": 1523,
     "timeWeek": 1465,
@@ -843,7 +845,8 @@
       "2026-10-19": 617,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 2
+      "2026-10-29": 312,
+      "2026-10-28": 261
     }
   },
   {
@@ -852,11 +855,11 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Green_icon_-_Key.ZGH.png/250px-Green_icon_-_Key.ZGH.png",
     "slug": "api-key-manager",
     "status": "down",
-    "uptime": "95.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "64.08%",
-    "uptimeYear": "94.91%",
+    "uptime": "94.93%",
+    "uptimeDay": "60.18%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "63.92%",
+    "uptimeYear": "94.80%",
     "time": 916,
     "timeDay": 1082,
     "timeWeek": 1081,
@@ -905,7 +908,8 @@
       "2026-10-19": 618,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 2
+      "2026-10-29": 313,
+      "2026-10-28": 261
     }
   },
   {
@@ -914,12 +918,12 @@
     "icon": "https://avatars.githubusercontent.com/u/7195757?s=200&v=4",
     "slug": "grafana",
     "status": "down",
-    "uptime": "95.22%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "64.09%",
-    "uptimeYear": "94.91%",
-    "time": 1334,
+    "uptime": "95.16%",
+    "uptimeDay": "60.19%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "63.93%",
+    "uptimeYear": "94.80%",
+    "time": 1335,
     "timeDay": 1931,
     "timeWeek": 1920,
     "timeMonth": 1894,
@@ -967,7 +971,8 @@
       "2026-10-19": 618,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 2
+      "2026-10-29": 313,
+      "2026-10-28": 261
     }
   },
   {
@@ -976,11 +981,11 @@
     "icon": "https://avatars.githubusercontent.com/u/3380462?s=200&v=4",
     "slug": "prometheus",
     "status": "down",
-    "uptime": "94.94%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "64.09%",
-    "uptimeYear": "94.91%",
+    "uptime": "94.88%",
+    "uptimeDay": "60.21%",
+    "uptimeWeek": "94.32%",
+    "uptimeMonth": "63.93%",
+    "uptimeYear": "94.80%",
     "time": 890,
     "timeDay": 1335,
     "timeWeek": 1382,
@@ -1028,7 +1033,8 @@
       "2026-10-19": 618,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 2
+      "2026-10-29": 313,
+      "2026-10-28": 260
     }
   },
   {
@@ -1037,11 +1043,11 @@
     "icon": "https://avatars.githubusercontent.com/u/19367275?s=48&v=4",
     "slug": "neuvector",
     "status": "down",
-    "uptime": "94.92%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "62.35%",
-    "uptimeYear": "94.45%",
+    "uptime": "94.85%",
+    "uptimeDay": "60.22%",
+    "uptimeWeek": "94.32%",
+    "uptimeMonth": "62.19%",
+    "uptimeYear": "94.35%",
     "time": 1480,
     "timeDay": 2579,
     "timeWeek": 1679,
@@ -1090,7 +1096,8 @@
       "2026-10-19": 618,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 2
+      "2026-10-29": 313,
+      "2026-10-28": 260
     }
   },
   {
@@ -1099,18 +1106,17 @@
     "icon": "https://avatars.githubusercontent.com/u/13752566?s=200&v=4",
     "slug": "wazuh",
     "status": "down",
-    "uptime": "94.59%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "63.34%",
-    "uptimeYear": "94.35%",
+    "uptime": "94.52%",
+    "uptimeDay": "60.23%",
+    "uptimeWeek": "94.32%",
+    "uptimeMonth": "63.18%",
+    "uptimeYear": "94.24%",
     "time": 843,
     "timeDay": 1693,
     "timeWeek": 1587,
     "timeMonth": 1341,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2025-10-29": 74,
       "2025-11-26": 849,
       "2025-11-25": 562,
       "2026-01-13": 577,
@@ -1154,7 +1160,8 @@
       "2026-10-19": 618,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-28": 1
+      "2026-10-29": 313,
+      "2026-10-28": 260
     }
   },
   {
@@ -1168,11 +1175,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 282,
-    "timeWeek": 308,
-    "timeMonth": 299,
-    "timeYear": 277,
+    "time": 272,
+    "timeDay": 442,
+    "timeWeek": 324,
+    "timeMonth": 305,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   }
 ]
